@@ -5,5 +5,4 @@ def max():
         print(f"{num1} is greater")
     else :
         print(f"{num2} is greater")
-
 max()
