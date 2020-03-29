@@ -5,3 +5,4 @@ def square_list(l):
     return list2
 numbers= list(range(1,11))
 print(square_list(numbers))
+#list is called with arguement l
