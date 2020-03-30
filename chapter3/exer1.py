@@ -1,3 +1,4 @@
+#lottery game
 winning_number = 12
 guess_number=int(input("Guess the number :"))
 if winning_number==guess_number :
