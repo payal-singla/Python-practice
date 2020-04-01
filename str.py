@@ -6,8 +6,6 @@
 # y = int(x) + 2
 # print(y)
 x = 'From marquard@uct.ac.za'
-
-
 #print(x[8])
 print(x[14:17])
 print(len('banana')*7)
