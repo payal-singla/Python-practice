@@ -1,5 +1,4 @@
 data1 = dict(name= "payal", age=19)
-
 #checking a particular key in dict
 if 'name' in data1:
     print("present")
