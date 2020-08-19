@@ -3,6 +3,7 @@ data1 = dict(name= "payal", age=19)
 data1["hometown"]="nabha"
 print(data1)
 
+
 #pop method
 print(data1.pop('hometown'))
 #print(data1.pop('nabha'))
