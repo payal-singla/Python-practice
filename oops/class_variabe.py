@@ -6,6 +6,7 @@ class Circle:
         return 2*Circle.pi*self.radius
     def area(self):
         return Circle.pi*self.radius**2
+        
 c1=Circle(23)
 print(c1.circumference())
 print(c1.area())
