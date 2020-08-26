@@ -2,6 +2,8 @@
 lists=['abc','asd','wedxs','dfc','efcs']
 print(lists)
 #with regular
+
+
 list1=[]
 for i in lists:
     list1.append(i[::-1])
